@@ -41,5 +41,3 @@ $.ajax({
         console.error('Error: ', jqXHR.responseText);
     }
 });
-
-console.log(pinto);
